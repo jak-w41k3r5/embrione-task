@@ -2,7 +2,7 @@
 
 A 3-page onboarding and moderation system built for The Embrione web development recruitment challenge.
 
-- **Live site:** https://jahaan-embrione-task.vercel.app
+- **Live site:** https://jahaanaara-embrione-task.vercel.app
 - **Stack:** Next.js 14 (App Router) · TypeScript · Tailwind CSS · Supabase (PostgreSQL + Storage) · Vercel
 
 ## Pages
@@ -42,7 +42,7 @@ A 3-page onboarding and moderation system built for The Embrione web development
 1. Push this repo to GitHub (public).
 2. On https://vercel.com choose **Add New -> Project** and import the repo.
 3. Under **Environment Variables** add `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_ANON_KEY` (same values as `.env.local`).
-4. Deploy, then set the project's domain to `jahaan-embrione-task.vercel.app` (Project -> Settings -> Domains).
+4. Deploy, then set the project's domain to `jahaanaara-embrione-task.vercel.app`(Project -> Settings -> Domains).
 
 ## How it works
 
